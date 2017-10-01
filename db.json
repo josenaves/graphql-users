@@ -17,6 +17,12 @@
       "firstName": "Nick",
       "age": 40,
       "companyId": "2"
+    },
+    {
+      "firstName": "José Naves",
+      "age": 44,
+      "id": "SJRCdY0ib",
+      "companyId": "2"
     }
   ],
   "companies": [
